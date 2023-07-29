@@ -1,0 +1,25 @@
+.mainpage{
+    background-color:rgb(207, 103, 85);
+}
+ 
+.linkedpage:hover{ 
+  background-color: aqua;
+}
+hr {
+  border-style: dotted;
+  border-left-style: hidden;
+  border-right-style: hidden;
+  border-top-style: dotted;
+  border-width: 10px;
+   border-color:black;
+   width: 30%;
+}
+h1{
+  color: black;
+}
+h3{
+  color:white;
+}
+img:hover {
+       border-radius: 50%;
+}
